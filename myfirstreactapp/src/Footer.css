@@ -1,0 +1,13 @@
+.footer-content{
+    height: 100px;
+    background-color: blue;
+    color:whitesmoke;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}

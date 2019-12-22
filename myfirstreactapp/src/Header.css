@@ -1,0 +1,13 @@
+.header-content{
+        height: 100px;
+        background-color: blue;
+        color:whitesmoke;
+        margin-bottom: 15px;
+        text-align: right;
+        font-size: 30px;
+        display: flex;
+        justify-content: right;
+        align-items: center;
+
+
+}

@@ -1,0 +1,12 @@
+main.nav{
+    height: 100px;
+    color:whitesmoke;
+    margin: 5px;
+    text-align: right;
+    font-size: 5px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+
+}
